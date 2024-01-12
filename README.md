@@ -1,4 +1,4 @@
-# Machine Learning with Python
+# Machine Learning with Python With Lucy W. M.
 
 This is "Machine Learning with Python" tutorial! 🚀  with Lucy W. This tutorial is designed for beginners like me who are eager to dive into the fascinating world of machine learning using Python. Let's embark on this learning journey together!
 
